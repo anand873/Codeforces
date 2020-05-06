@@ -649,6 +649,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF79165375": {
+    "contest_id": 1345,
+    "language": "GNU C++14",
+    "path": "codeforces/1345/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Hilbert's Hotel",
+    "problem_url": "https://codeforces.com/contest/1345/problem/C",
+    "submission_id": "CF79165375",
+    "submission_url": "https://codeforces.com/contest/1345/submission/79165375",
+    "tags": [
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/06/2020 20:28"
+  },
   "CF79180224": {
     "contest_id": 1345,
     "language": "GNU C++14",
