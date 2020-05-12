@@ -649,6 +649,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF79866002": {
+    "contest_id": 1350,
+    "language": "GNU C++14",
+    "path": "codeforces/1350/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Orac and Medians",
+    "problem_url": "https://codeforces.com/contest/1350/problem/D",
+    "submission_id": "CF79866002",
+    "submission_url": "https://codeforces.com/contest/1350/submission/79866002",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/12/2020 19:30"
+  },
   "CF81493978": {
     "contest_id": 1358,
     "language": "GNU C++14",
