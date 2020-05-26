@@ -248,6 +248,25 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF81525890": {
+    "contest_id": 1358,
+    "language": "GNU C++14",
+    "path": "codeforces/1358/D.cpp",
+    "problem_index": "D",
+    "problem_name": "The Best Vacation",
+    "problem_url": "https://codeforces.com/contest/1358/problem/D",
+    "submission_id": "CF81525890",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81525890",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2020 21:16"
+  },
   "CF81544746": {
     "contest_id": 1358,
     "language": "GNU C++14",
