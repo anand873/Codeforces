@@ -248,6 +248,23 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF82241419": {
+    "contest_id": 978,
+    "language": "GNU C++14",
+    "path": "codeforces/978/G.cpp",
+    "problem_index": "G",
+    "problem_name": "Petya's Exams",
+    "problem_url": "https://codeforces.com/contest/978/problem/G",
+    "submission_id": "CF82241419",
+    "submission_url": "https://codeforces.com/contest/978/submission/82241419",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jun/01/2020 22:39"
+  },
   "CF82424129": {
     "contest_id": 1195,
     "language": "GNU C++14",
