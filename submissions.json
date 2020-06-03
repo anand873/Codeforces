@@ -248,6 +248,23 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF82428235": {
+    "contest_id": 1195,
+    "language": "GNU C++14",
+    "path": "codeforces/1195/D2.cpp",
+    "problem_index": "D2",
+    "problem_name": "Submarine in the Rybinsk Sea (hard edition)",
+    "problem_url": "https://codeforces.com/contest/1195/problem/D2",
+    "submission_id": "CF82428235",
+    "submission_url": "https://codeforces.com/contest/1195/submission/82428235",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Jun/04/2020 00:25"
+  },
   "CF82492777": {
     "contest_id": 1362,
     "language": "GNU C++14",
