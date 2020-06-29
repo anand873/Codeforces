@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF85439826": {
+    "contest_id": 592,
+    "language": "GNU C++14",
+    "path": "codeforces/592/C.cpp",
+    "problem_index": "C",
+    "problem_name": "The Big Race",
+    "problem_url": "https://codeforces.com/contest/592/problem/C",
+    "submission_id": "CF85439826",
+    "submission_url": "https://codeforces.com/contest/592/submission/85439826",
+    "tags": [
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jun/29/2020 14:46"
+  },
   "CF85456783": {
     "contest_id": 474,
     "language": "GNU C++14",
