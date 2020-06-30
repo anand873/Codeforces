@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF85536298": {
+    "contest_id": 373,
+    "language": "GNU C++14",
+    "path": "codeforces/373/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Collecting Beats is Fun",
+    "problem_url": "https://codeforces.com/contest/373/problem/A",
+    "submission_id": "CF85536298",
+    "submission_url": "https://codeforces.com/contest/373/submission/85536298",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/30/2020 17:20"
+  },
   "CF85537342": {
     "contest_id": 312,
     "language": "GNU C++14",
