@@ -248,6 +248,23 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF85556827": {
+    "contest_id": 354,
+    "language": "GNU C++14",
+    "path": "codeforces/354/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Vasya and Robot",
+    "problem_url": "https://codeforces.com/contest/354/problem/A",
+    "submission_id": "CF85556827",
+    "submission_url": "https://codeforces.com/contest/354/submission/85556827",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/30/2020 21:23"
+  },
   "CF85618778": {
     "contest_id": 358,
     "language": "GNU C++14",
