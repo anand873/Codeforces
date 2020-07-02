@@ -92,11 +92,10 @@ int main()
 	{
 		minx=max(minx,A[i]-i);
 	}
-	int t = minx-1;
-	int low=minx,high=maxx-1;
-	while(low<=high)
+
+	set<int> S;
+	for(int x=minx;x<maxx;x++)
 	{
-		int x=low+(high-low)/2;
 		map<int,int> M;
 		ll ans=1;
 		int can=0;
@@ -112,26 +111,10 @@ int main()
 			can--;
 			ans%=p;
 		}
-		if(ans)
-		{
-			t=x;
-			low=x+1;
-		}
-		else 
-		{
-			high=x-1;
-		}
+		if(ans) S.insert(x);
 	}
-	if(t<minx)
-	{
-		cout<<0<<endl;
-	}
-	else
-	{
-		cout<<t-minx+1<<endl;
-		for(int i=minx;i<=t;i++) cout<<i<<" ";
-		cout<<endl;
-	}
+	cout<<S.size()<<endl;
+	prinv(S);
 		
 
 
