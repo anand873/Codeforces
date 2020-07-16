@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF86961074": {
+    "contest_id": 1166,
+    "language": "GNU C++14",
+    "path": "codeforces/1166/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Silent Classroom",
+    "problem_url": "https://codeforces.com/contest/1166/problem/A",
+    "submission_id": "CF86961074",
+    "submission_url": "https://codeforces.com/contest/1166/submission/86961074",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jul/16/2020 11:49"
+  },
   "CF86961825": {
     "contest_id": 1166,
     "language": "GNU C++14",
