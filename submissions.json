@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF87081777": {
+    "contest_id": 1385,
+    "language": "GNU C++14",
+    "path": "codeforces/1385/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Three Pairwise Maximums",
+    "problem_url": "https://codeforces.com/contest/1385/problem/A",
+    "submission_id": "CF87081777",
+    "submission_url": "https://codeforces.com/contest/1385/submission/87081777",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/17/2020 20:11"
+  },
   "CF87083990": {
     "contest_id": 1385,
     "language": "GNU C++14",
