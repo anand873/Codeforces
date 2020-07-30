@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF88424509": {
+    "contest_id": 1174,
+    "language": "GNU C++14",
+    "path": "codeforces/1174/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Ehab and a Special Coloring Problem",
+    "problem_url": "https://codeforces.com/contest/1174/problem/C",
+    "submission_id": "CF88424509",
+    "submission_url": "https://codeforces.com/contest/1174/submission/88424509",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jul/30/2020 15:12"
+  },
   "CF88438442": {
     "contest_id": 1174,
     "language": "GNU C++14",
