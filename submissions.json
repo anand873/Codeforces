@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF90316288": {
+    "contest_id": 63,
+    "language": "GNU C++14",
+    "path": "codeforces/63/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Dividing Island",
+    "problem_url": "https://codeforces.com/contest/63/problem/D",
+    "submission_id": "CF90316288",
+    "submission_url": "https://codeforces.com/contest/63/submission/90316288",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "Aug/18/2020 19:55"
+  },
   "CF90318785": {
     "contest_id": 1043,
     "language": "GNU C++14",
