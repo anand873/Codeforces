@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF91802986": {
+    "contest_id": 1409,
+    "language": "GNU C++14",
+    "path": "codeforces/1409/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Yet Another Two Integers Problem",
+    "problem_url": "https://codeforces.com/contest/1409/problem/A",
+    "submission_id": "CF91802986",
+    "submission_url": "https://codeforces.com/contest/1409/submission/91802986",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2020 20:07"
+  },
   "CF91814137": {
     "contest_id": 1409,
     "language": "GNU C++14",
