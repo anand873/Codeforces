@@ -248,6 +248,24 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF93589869": {
+    "contest_id": 697,
+    "language": "GNU C++14",
+    "path": "codeforces/697/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Lorenzo Von Matterhorn",
+    "problem_url": "https://codeforces.com/contest/697/problem/C",
+    "submission_id": "CF93589869",
+    "submission_url": "https://codeforces.com/contest/697/submission/93589869",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Sep/24/2020 00:14"
+  },
   "CF93652116": {
     "contest_id": 1420,
     "language": "GNU C++14",
