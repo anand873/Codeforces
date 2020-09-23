@@ -248,6 +248,23 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF93587345": {
+    "contest_id": 340,
+    "language": "GNU C++14",
+    "path": "codeforces/340/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Tourist Problem",
+    "problem_url": "https://codeforces.com/contest/340/problem/C",
+    "submission_id": "CF93587345",
+    "submission_url": "https://codeforces.com/contest/340/submission/93587345",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Sep/23/2020 23:32"
+  },
   "CF93589869": {
     "contest_id": 697,
     "language": "GNU C++14",
