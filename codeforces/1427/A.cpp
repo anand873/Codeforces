@@ -44,7 +44,15 @@ int main()
 			cout<<"NO"<<endl;
 			continue;
 		}
-		if(sum>0) reverse(all(A));
+		for(int i=n-1;i>=0;i--)
+		{
+			if(sum==0)
+			{
+				reverse(A.begin(),A.begin()+i+2);
+				break;
+			}
+			sum-=A[i];
+		}
 		cout<<"YES"<<endl;
 		prinv(A);
 	}
