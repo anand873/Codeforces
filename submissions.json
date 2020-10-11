@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95285960": {
+    "contest_id": 408,
+    "language": "GNU C++14",
+    "path": "codeforces/408/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Triangle",
+    "problem_url": "https://codeforces.com/contest/408/problem/C",
+    "submission_id": "CF95285960",
+    "submission_url": "https://codeforces.com/contest/408/submission/95285960",
+    "tags": [
+      "geometry",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/11/2020 22:27"
+  },
   "CF95405075": {
     "contest_id": 630,
     "language": "GNU C++14",
