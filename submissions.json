@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95406767": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces/630/F.cpp",
+    "problem_index": "F",
+    "problem_name": "Selection of Personnel",
+    "problem_url": "https://codeforces.com/contest/630/problem/F",
+    "submission_id": "CF95406767",
+    "submission_url": "https://codeforces.com/contest/630/submission/95406767",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/13/2020 14:30"
+  },
   "CF95407032": {
     "contest_id": 630,
     "language": "GNU C++14",
