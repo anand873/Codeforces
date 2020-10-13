@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95406036": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces/630/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Hexagons!",
+    "problem_url": "https://codeforces.com/contest/630/problem/D",
+    "submission_id": "CF95406036",
+    "submission_url": "https://codeforces.com/contest/630/submission/95406036",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/13/2020 14:20"
+  },
   "CF95406249": {
     "contest_id": 630,
     "language": "GNU C++14",
