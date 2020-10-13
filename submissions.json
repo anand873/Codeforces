@@ -248,6 +248,21 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95407032": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces/630/N.cpp",
+    "problem_index": "N",
+    "problem_name": "Forecast",
+    "problem_url": "https://codeforces.com/contest/630/problem/N",
+    "submission_id": "CF95407032",
+    "submission_url": "https://codeforces.com/contest/630/submission/95407032",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/13/2020 14:34"
+  },
   "CF95407363": {
     "contest_id": 630,
     "language": "GNU C++14",
