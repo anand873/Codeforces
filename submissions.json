@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95407363": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces/630/K.cpp",
+    "problem_index": "K",
+    "problem_name": "Indivisibility",
+    "problem_url": "https://codeforces.com/contest/630/problem/K",
+    "submission_id": "CF95407363",
+    "submission_url": "https://codeforces.com/contest/630/submission/95407363",
+    "tags": [
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Oct/13/2020 14:39"
+  },
   "CF95407790": {
     "contest_id": 630,
     "language": "GNU C++14",
