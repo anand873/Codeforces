@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF95408542": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces/630/L.cpp",
+    "problem_index": "L",
+    "problem_name": "Cracking the Code",
+    "problem_url": "https://codeforces.com/contest/630/problem/L",
+    "submission_id": "CF95408542",
+    "submission_url": "https://codeforces.com/contest/630/submission/95408542",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Oct/13/2020 14:55"
+  },
   "CF95408942": {
     "contest_id": 630,
     "language": "GNU C++14",
