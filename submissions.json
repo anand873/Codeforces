@@ -248,6 +248,22 @@
     ],
     "timestamp": "Dec/21/2020 20:37"
   },
+  "CF99565761": {
+    "contest_id": 1451,
+    "language": "GNU C++14",
+    "path": "codeforces/1451/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Subtract or Divide",
+    "problem_url": "https://codeforces.com/contest/1451/problem/A",
+    "submission_id": "CF99565761",
+    "submission_url": "https://codeforces.com/contest/1451/submission/99565761",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2020 19:23"
+  },
   "CF99566598": {
     "contest_id": 1451,
     "language": "GNU C++14",
