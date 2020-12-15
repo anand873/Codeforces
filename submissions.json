@@ -1,4 +1,20 @@
 {
+  "CF101255705": {
+    "contest_id": 1165,
+    "language": "GNU C++14",
+    "path": "codeforces/1165/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Remainder",
+    "problem_url": "https://codeforces.com/contest/1165/problem/A",
+    "submission_id": "CF101255705",
+    "submission_url": "https://codeforces.com/contest/1165/submission/101255705",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/15/2020 19:25"
+  },
   "CF101256098": {
     "contest_id": 1165,
     "language": "GNU C++14",
