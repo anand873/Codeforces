@@ -7,6 +7,7 @@ Submissions
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces
 > Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
+> This Repo contains solution by my codeforces account "doubleux".
 
 ## Contents
 
